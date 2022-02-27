@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The world turn'd upside down: or, A briefe description of the ridiculous fashions of these distracted times. By T.J. a well-willer to King, Parliament, and kingdom.</title>
+            <author>T. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87373</idno>
+            <idno type="STC">Wing J1072A</idno>
+            <idno type="STC">Thomason E372_19</idno>
+            <idno type="STC">ESTC R8264</idno>
+            <idno type="EEBO-CITATION">99873258</idno>
+            <idno type="PROQUEST">99873258</idno>
+            <idno type="VID">160145</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160145)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E372[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The world turn'd upside down: or, A briefe description of the ridiculous fashions of these distracted times. By T.J. a well-willer to King, Parliament, and kingdom.</title>
+                  <author>T. J.</author>
+                  <author>Taylor, John, 1580-1653.</author>
+                  <author>Jordan, Thomas, 1612?-1685?,</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.J. = Thomas Jordan? John Taylor?.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Jan: 28 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160145:1" rendition="simple:additions"/>
+            <p>THE World turn'd upſide down: OR, A briefe deſcription of the ridiculous Faſhions of theſe diſtracted Times.</p>
+            <p>By T. J. a well-willer to King, Parliament and Kingdom.</p>
+            <figure/>
+            <p>
+               <hi>London:</hi> Printed for <hi>John Smith.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:160145:2"/>
+            <pb facs="tcp:160145:2"/>
+            <head>The VVorld turned up-ſide-down.</head>
+            <lg>
+               <l>THe Picture that is printed in the front</l>
+               <l>Is like the Kingdom, if you look upon't:</l>
+               <l>For if you well do note it as it is,</l>
+               <l>It is a Tranſform'd Metamorphoſis.</l>
+               <l>This monſtrous Picture plainely doth declare</l>
+               <l>This Land (quite out of order) out of ſquare:</l>
+               <l>His breeches on his ſhoulders do appeare,</l>
+               <l>His doublet on his lower parts doth weare;</l>
+               <l>His boots and ſpurs upon his armes and hands,</l>
+               <l>His gloves upon his feet, (whereon he ſtands)</l>
+               <l>The Church o're-turn'd, (a lamentable ſhow)</l>
+               <l>The Candleſtick above, the light below;</l>
+               <l>The Cony hunts the Dogge, the Rat the Cat,</l>
+               <l>The Horſe doth whip the Cart, (I pray marke that)</l>
+               <l>The Wheelbarrow doth drive the man (oh baſe)</l>
+               <l>And Eeles and Gudgeons flie a mighty pace.</l>
+               <l>And ſure this is a Monſter of ſtrange faſhion,</l>
+               <l>That doth ſurpaſſe all <hi>Ovids</hi> Transformation.</l>
+               <l>And this is Englands caſe this very day,</l>
+               <l>All things are turn'd the clean contrary way;</l>
+               <l>For now, when as a royall Parliament,</l>
+               <l>(With King, and Peers, and Commons whole conſent)</l>
+               <l>Have ſate above ſix years, with paines and cares,</l>
+               <l>And charge, to free us from our griefs and feares;</l>
+               <l>For when many a worthy Lord and Knight,</l>
+               <l>And good Eſquire (for King and Countreyes Right)</l>
+               <l>Have ſpent ſo much time with great toyle, and heed,</l>
+               <l>All Englands Vicious garden how to weed.</l>
+               <pb facs="tcp:160145:3"/>
+               <l>So like a Wilderneſſe 'twas over-runne,</l>
+               <l>That though much hath been done; all is not done.</l>
+               <l>The Devill doth perſwade, entice and lurke,</l>
+               <l>And force bad men to ſet good men aworke.</l>
+               <l>That whilſt the <hi>Worthies</hi> ſtrive to right our wrongs,</l>
+               <l>And give to each man, what to him belongs;</l>
+               <l>Whil'ſt they take paines to ſettle all things heere,</l>
+               <l>An <hi>Iriſh Devill</hi> doth madly domineere.</l>
+               <l>From Heils blacke Pit, begirt with Romiſh Armes,</l>
+               <l>Thouſands of <hi>Locuſts</hi> are in Troups and Swarmes,</l>
+               <l>More barbarous then the Heathens, worſe then Jewes,</l>
+               <l>Nor Turkes or Tartars would ſuch tortures uſe,</l>
+               <l>Sure that Religion can no waies bee good,</l>
+               <l>That ſo inhumanely delights in Blood:</l>
+               <l>Nor doth that Doctrine from the Scriptures ſpring,</l>
+               <l>For to rebell againſt God and the King.</l>
+               <l>Nay (further) murder, raviſh, ſpoile, deflowre,</l>
+               <l>Burne and lay waſt depopulate, devoure,</l>
+               <l>Not ſparing Infants at the breaſt or wombe,</l>
+               <l>(To die where firſt they liv'd, their birth, their tombe)</l>
+               <l>'Tis ſaid no Serpent, Adder, Snake, or Toade,</l>
+               <l>Can live in Ireland or have their aboade:</l>
+               <l>'Tis ſtrange that ſhe thoſe Vipers doth not kill,</l>
+               <l>That gnawes her bowells, and her blood doth ſpill,</l>
+               <l>Can Iriſh Earth kill all things venemous,</l>
+               <l>And can ſhee nurſe ſuch Vermin Miſchievous:</l>
+               <l>Her owne ſonnes Native, worſe then ſtrangers borne,</l>
+               <l>They have their Mothers Entrailes rent and torne,</l>
+               <l>Yet ſtill her indulgencie, harbours thoſe,</l>
+               <l>And feeds thoſe Rebells that do breed her woes:</l>
+               <l>God (in thy mercie) give her ſtrength and ayd,</l>
+               <l>And courage, make her foes and ours diſmay'd,</l>
+               <l>Thou Lord of Hoſts, thine owne cauſe take in hand,</l>
+               <l>Thy foes (thine Antichriſtian foes) withſtand;</l>
+               <pb facs="tcp:160145:3"/>
+               <l>Defend thy truth, and all our Armies guide;</l>
+               <l>Our Enemies to ſcatter and devide.</l>
+               <l>Thus leaving <hi>Ireland</hi> (with my hearty prayers)</l>
+               <l>To <hi>Btitaine</hi> backe againe my Muſe repaires:</l>
+               <l>Where I perceive a Metamorphoſis,</l>
+               <l>Is moſt prepoſterous, as the Picture is,</l>
+               <l>The world's turn'd up-ſide-downe, from bad to worſe</l>
+               <l>Quite out of frame, <hi>The Cart before the Horſe.</hi>
+               </l>
+               <l>The Felt-maker, and ſawcie ſtable Groome</l>
+               <l>Will dare to pearch into the Preachers roome;</l>
+               <l>Each Ignorant, doe of the Spirit boaſt,</l>
+               <l>And prating fooles brag of the <hi>Holy Ghoſt,</hi>
+               </l>
+               <l>When <hi>Ignoramus</hi> will his Teacher teach,</l>
+               <l>And Sow-gelders and Coblers dare to preach,</l>
+               <l>This ſhewes, mens wits are monſtrouſly diſguis'd,</l>
+               <l>Or that our Countrey is Antipodis'd.</l>
+               <l>When as the Lords Prayer is almoſt neglected,</l>
+               <l>And all Church-Government is quite rejected,</l>
+               <l>When to avoid a <hi>Romiſh Papiſts</hi> name,</l>
+               <l>A man muſt be unmannerly, paſt ſhame,</l>
+               <l>When he that doth ſhew reverence, doth offend,</l>
+               <l>And he ſeemes beſt, that will not bow or bend,</l>
+               <l>When he that into Gods Houſe doth not come,</l>
+               <l>As to a Stable, or a Tipling Roome,</l>
+               <l>Is counted for a Popiſh Favorite,</l>
+               <l>And branded ſo, deſpis'd, and ſcorn'd with ſpite.</l>
+               <l>When he that (of his waies) doth conſcience make,</l>
+               <l>And in his heart doth world, fleſh, feind forſake,</l>
+               <l>Loves God with all his ſoule; adores no pelfe,</l>
+               <l>And loves his Neighbour, as he loves himſelfe;</l>
+               <l>This man is rare to finde, yet this rare man</l>
+               <l>Shall have the hatefull name of Puritan:</l>
+               <l>When execrations pierce the firmament,</l>
+               <l>And oathes doe batter 'gainſt heavens battlement:</l>
+               <pb facs="tcp:160145:4"/>
+               <l>When imprecations, and damn'd blaſphemies,</l>
+               <l>In ſun dry curſed volleys, ſcale the skies,</l>
+               <l>When men more bruitiſh then the Horſe or Mule,</l>
+               <l>Who know not to obey, preſume to rule,</l>
+               <l>Th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rch a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Common wealth, and men, all are</l>
+               <l>(Much like the Picture) out of frame or ſquare.</l>
+               <l>And if 'twere poſſible our fathers old</l>
+               <l>Should live againe, and tread upon this mould,</l>
+               <l>And ſee all things confuſed, overthrowne,</l>
+               <l>They would not know this Countrey for their own.</l>
+               <l>For England hath no likelihood or ſhow</l>
+               <l>Of what it was but ſeventy years ago;</l>
+               <l>Religion, manners, life, and ſhapes of men,</l>
+               <l>Are much unlike the people that were then,</l>
+               <l>Nay, Englands face, and language is eſtrang'd,</l>
+               <l>That all is Metamorphis'd chop d, and chang'd,</l>
+               <l>For like as on the Poles the World is whorl'd,</l>
+               <l>So is this Land the Bedlam of the World;</l>
+               <l>That I amazed, and amated am,</l>
+               <l>To ſee Great Britain turn'd to Amſterdam,</l>
+               <l>Mens braines and wits (two ſimples beat together)</l>
+               <l>From thence, mix'd and compounded, are ſent hither.</l>
+               <l>For Amſterdam is landed (as I heare)</l>
+               <l>At Rye, or Haſtings, or at Dover Peere,</l>
+               <l>At Harwich, Ipſwich, Sandwich, or at Weymouth,</l>
+               <l>And at Portſmouth, Dartmouth, Plymouth, Falmouth,</l>
+               <l>At Yarmouth, and at the Ports of Tinmouth,</l>
+               <l>And Weſtward unto Briſtow, and to Monmouth;</l>
+               <l>From all theſe Mouthes, and more, mad ſects are ſent,</l>
+               <l>Who have Religion all in pieces rent,</l>
+               <l>One would have this, another would have that,</l>
+               <l>And moſt of them would have they know not what.</l>
+               <l>God give us peace, and eaſe us of our paine,</l>
+               <l>And ſend thoſe Sects, from whence they came againe.</l>
+               <pb facs="tcp:160145:4"/>
+               <l>The Papiſt and the Schiſmatique; both grieves</l>
+               <l>The <hi>Church,</hi> for ſhee's like <hi>Chriſt</hi> (between two Thieves)</l>
+               <l>I tooke the Covenant twice of late,</l>
+               <l>Where I proteſted not to innovate.</l>
+               <l>Tavoid all Popiſh Rite, and to expreſs</l>
+               <l>Obedience to what <hi>Englands</hi> Church profeſs,</l>
+               <l>My Loyalty unto my King is bent</l>
+               <l>With duty to the Peeres and Parliament,</l>
+               <l>With Prayers, and my beſt ſervice for them all,</l>
+               <l>That on them may heavens chiefeſt bleſſing fall,</l>
+               <l>That with one heart, as one man, with one mind,</l>
+               <l>(For Gods great glory) they may be combinde,</l>
+               <l>And never vary, but go boldly on,</l>
+               <l>To end the good worke which they have begun.</l>
+               <l>This is the Sum (with ne'er ſhall be forſooke)</l>
+               <l>Of what I in the Covenant have tooke,</l>
+               <l>But, for all this, I may be mannerly</l>
+               <l>In Gods Houſe, and be free from Papiſtrie;</l>
+               <l>I hope I may put off my hat, and bee</l>
+               <l>Allow'd to kneel, and pray, and bow my knee,</l>
+               <l>When as divine Command bids, onely then</l>
+               <l>I'le bow to God, and not to Saints or Men,</l>
+               <l>And from thoſe duties I will never vary,</l>
+               <l>Till death, or order do command contrary.</l>
+               <l>Th'Almighties Name be ever prais'd and bleſt,</l>
+               <l>That Romiſh Superſtition is ſuppreſt,</l>
+               <l>We have no Abbies, Abbots, Friars or Monks,</l>
+               <l>Nor have we Nuns, or Stews allow'd for Punks,</l>
+               <l>We have no Maſſes, nor no Maſ-Prieſts heere,</l>
+               <l>But ſome are hang'd, and ſome are ſled for feare.</l>
+               <l>All thoſe that are ſo bold to ſtay behind,</l>
+               <l>I wiſh they may like entertainement find;</l>
+               <l>Beades, Bables, Relliques, Tapers, Lamps or Lights,</l>
+               <l>We have no ſuperſtitious Romiſh Rites,</l>
+               <pb facs="tcp:160145:5"/>
+               <l>We ſeeke our Pardons from our heavenly hope,</l>
+               <l>And not by workes or favour from the Pope;</l>
+               <l>To Saints we make no prayer or interceſſion,</l>
+               <l>And unto God alone we make Confeſſion;</l>
+               <l>We hold no reall Preſence in the Bread.</l>
+               <l>And wee doe know King <hi>Charles</hi> our ſupreame head</l>
+               <l>(Beneath God, who hath plac'd him in his Throne)</l>
+               <l>For other Supreame, we acknowledge none</l>
+               <l>No purgatory, Image, Wood, or Stone,</l>
+               <l>No Stocke, or carved Blocke, we truſt upon,</l>
+               <l>Nor is our Church diſcretion here ſo little,</l>
+               <l>As to baptize with creame, with falt and ſpittle.</l>
+               <l>We have as many Sacraments, as Heaven</l>
+               <l>Ordain'd; which are but two, and Rome hath ſeven.</l>
+               <l>We doe not chriſten Bells, and give them Names</l>
+               <l>Of <hi>Simon, Peter, Andrew, John,</hi> and <hi>James;</hi>
+               </l>
+               <l>We uſe no Pilgrimage, or Holy-water,</l>
+               <l>Nor in an unknowne tongue our prayers ſcatter;</l>
+               <l>All theſe, and many more, in Rome are us'd,</l>
+               <l>Which are by us rejected and refus'd.</l>
+               <l>And yet too many faults, alas remaines,</l>
+               <l>Which are the Churches, and the Kingdomes ſtaines,</l>
+               <l>The Church Tryumphant is moſt cleare from ſpots,</l>
+               <l>The poore Church Militant hath ſtill ſome blots,</l>
+               <l>Here's all unperfect, ſomething's ſtill amiſſe,</l>
+               <l>And nothing's bleſt, but in Eternall Bliſſe.</l>
+               <l>Meane time, till wee amend, and leave our crimes,</l>
+               <l>The Picture is the Emblem of the times.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
